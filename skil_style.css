@@ -1,0 +1,46 @@
+body{
+    background:linear-gradient( rgb(226, 73, 98),rgb(62, 197, 62));
+}
+h1{
+    color:white;
+    font-size: 20px;
+    text-shadow: 3px 3px 4px black;
+}
+p{
+    width:75%;
+}
+.link-c{
+    color:rgb(233, 233, 10);
+    font-size: 19px;
+    border:24px;
+    padding:5px;
+    border-radius: 30px;
+    background-color: blue;
+    text-decoration: none;
+}
+.link-c:hover{
+    color:black;
+    font-size: 19px;
+    border:24px;
+    padding:5px;
+    border-radius: 30px;
+    background-color:yellow;
+}
+.CERT{
+    color:white;
+    font-size: 15px;
+    border:21px;
+    padding:5px;
+    border-radius: 30px;
+    background-color: blue;
+    text-decoration: none;
+}
+.CERT:hover{
+    color:red;
+    font-size: 15px;
+    border:22px;
+    padding:5px;
+    border-radius: 40px;
+    background-color:yellow;
+    text-decoration: none;
+}
